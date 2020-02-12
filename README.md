@@ -2,7 +2,7 @@
 
 Now you will create your own permissioned blockchain. For that, you will bring up a network, create a channel, join a peer to that channel, install and instantiate a smart contract (aka chaincode in Hyperledger Fabric). After that, you will issue a transaction in the chaincode, change the source code of the chaincode and upgrade the network with the new smart contract. In **Part I** we will provide step-by-step instructions and in **Part II** you must complete the instructions on your own.
 	
-To accomplish that we recommend you use a UNIX-like machine (Linux/macOS). Besides that, we will need to install cURL and Docker.
+To accomplish that, we recommend you use a UNIX-like machine (Linux/macOS). Besides that, we will need to install cURL and Docker.
 
 ## Install the prerequisites
 
