@@ -14,7 +14,7 @@ To accomplish that, we recommend you use a UNIX-like machine (Linux/macOS). Besi
     - Make sure you the repository is in your `$GOPATH`
 - Download the Docker images of Hyperledger
 
-        curl -sSL http://bit.ly/2ysbOFE | bash -s
+        curl -sSL http://bit.ly/2ysbOFE | bash -s -- 1.4.4 1.4.4 0.4.18
 	- Make sure that the Fabric binaries are in your `$PATH`
 
 ## PART I
