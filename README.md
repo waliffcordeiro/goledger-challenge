@@ -11,6 +11,7 @@ To accomplish that, we recommend you use a UNIX-like machine (Linux/macOS). Besi
 - Install Go (https://golang.org/dl/)
 - Fork the repository https://github.com/goledgerdev/goledger-challenge 
     - Fork it, do **NOT** clone it, since you will need to send us your forked repository
+	- If you cannot fork it, create a private repository and give access to `samuelvenzi` and `vieiramanoel`
     - Make sure you the repository is in your `$GOPATH`
 - Download the Docker images of Hyperledger
 
@@ -138,4 +139,4 @@ Now that you have your network up and running with the FABCAR chaincode, you mus
 - **Commit** your changes (`prints` folder and source code) to your forked repository
 
 
-To complete the challenge, you must send us the link to your forked repository with the alterations you made.
+To complete the challenge, you must send us the link to your repository with the alterations you made.
